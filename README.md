@@ -125,5 +125,5 @@ This tool is for personal use only. Please respect Instagram's terms of service 
 
 
 **Contact**
-Jay Im - @your_twitter - jayim1996@outlook.com
+Jay Im - jayim1996@outlook.com
 Project Link: https://github.com/ImJ9y/Instagram-Unfollow-Tracker
