@@ -1,4 +1,4 @@
-# Instagram-Unfollow-Tracker
+# InsightFollow: Instagram Unfollow Tracker
 A powerful tool to track who doesn't follow you back on Instagram.
 
 ![InsightFollow](https://github.com/user-attachments/assets/5970cd7d-ad81-41de-bf3d-14d9301fa8a8)
